@@ -1,5 +1,5 @@
 **EDA Findings – Summary Texts**
-🔹 1. Data Quality & Structure
+1. Data Quality & Structure
 :-The dataset consists of 170 sales transactions with 20 attributes covering customer details, product hierarchy, geographic information, and financial metrics. Data quality is high, with less than 1% missing values originating from a single incomplete record, which was safely removed. Overall, the dataset is well-structured and suitable for business analysis.
 
 2. Sales & Profit Distribution
